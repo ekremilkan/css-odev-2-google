@@ -1,0 +1,23 @@
+.logo {
+    width: max-content;
+    margin: auto;
+    margin-top: 100px;
+}
+.motto {
+    width: max-content;
+    margin: auto;
+    font-size: 20px;
+}
+.search-bar {
+    width: max-content;
+    margin: auto;   
+}
+.buttons {
+    width: max-content;
+    margin: auto;
+}
+.table1 {
+    width: max-content;
+    margin: auto;
+    
+}
