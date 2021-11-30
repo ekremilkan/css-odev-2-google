@@ -1,1 +1,1 @@
-# css-odev-2-google
+# CSS dersinin 2. ödevi olan Google.com'un 1998 versiyonu.
